@@ -1,5 +1,5 @@
 # Tailstore - Free Tailwind CSS eCommerce Template
-#### Preview
+#### Preview n
 
  - [Demo](https://themewagon.github.io/tailstore/)
 
